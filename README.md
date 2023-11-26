@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding 
 - 🌱 I’m currently learning AWS Solutions 
 - 💞️ I’m looking to collaborate on anything 
-- 📫 Reavh me via email 
+- 📫 Reach me via email 
 
 <!---
 jmoore87/jmoore87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
